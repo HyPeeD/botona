@@ -1,0 +1,15 @@
+{
+  "name": "botona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.0.1",
+	"discord-buttons": "^3.2.1",
+	"mathjs": "^9.4.3"
+  }
+}
